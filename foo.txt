@@ -1,1 +1,1 @@
-Foo it is.
+Foo it is. Goo it is not.
